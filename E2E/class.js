@@ -8,4 +8,5 @@ var Emp = (function () {
     return Emp;
 }());
 var e = new Emp();
+var s = 2;
 e.test();
